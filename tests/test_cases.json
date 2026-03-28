@@ -1,0 +1,22 @@
+[
+  {
+    "ticket": "Can I get refund for melted food?",
+    "expected": "Denied"
+  },
+  {
+    "ticket": "My order is delayed by 3 days, can I get compensation?",
+    "expected": "Approved"
+  },
+  {
+    "ticket": "Can I cancel order after shipping?",
+    "expected": "Denied"
+  },
+  {
+    "ticket": "I received damaged item, can I get refund?",
+    "expected": "Approved"
+  },
+  {
+    "ticket": "My package is lost, what can I do?",
+    "expected": "Approved"
+  }
+]

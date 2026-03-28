@@ -1,0 +1,8 @@
+Perishable Items Policy:
+
+- Perishable goods include food, flowers, and dairy items.
+- These items are not eligible for return after delivery.
+
+Exceptions:
+- If item arrives damaged, refund is allowed.
+- Melted or spoiled items are NOT refundable unless delay exceeds 48 hours.
